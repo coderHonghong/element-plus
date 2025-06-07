@@ -1,27 +1,27 @@
 ---
-title: Button
+title: 按钮
 lang: en-US
 ---
 
-# Button
+# 按钮
 
-Commonly used button.
+常用按钮
 
-## Basic usage
+## 基本用法
 
-:::demo Use `type`, `plain`, `round` and `circle` to define Button's style.
+:::demo 使用 `type`、`pla`、`round` 和 `circle` 来定义Button的样式。
 
-button/basic
+按钮/基本的
 
 :::
 
-## Disabled Button
+## 已禁用按钮
 
-The `disabled` attribute determines if the button is disabled.
 
-:::demo Use `disabled` attribute to determine whether a button is disabled. It accepts a `Boolean` value.
 
-button/disabled
+:::demo 使用 "禁用" 属性来确定按钮是否被禁用。 它接受\`Boolean'值。
+
+按钮/禁用
 
 :::
 
